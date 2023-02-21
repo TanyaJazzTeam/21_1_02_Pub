@@ -23,6 +23,10 @@ msgid "AMP Conf 2020"
 msgstr "AMP Conf 20202"
 
 #: /views/partials/footer.j2:72
+msgid "AMP 20"
+msgstr "AMP 20"
+
+#: /views/partials/footer.j2:72
 msgid "AMP Contributor Summit 2019"
 msgstr "AMP Contributor Summit 20192"
 
