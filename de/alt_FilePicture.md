@@ -8,7 +8,7 @@ Erste Kopfzeile | Zweite Kopfzeile
 Inhaltszelle | Inhaltszelle
 Inhaltszelle | Inhaltszelle
 
-![Zitadelle](https://vignette.wikia.nocookie.net/masseffect/images/d/d7/MassEffect2Citadel.jpg/revision/latest?cb=20100721191415)
+![Zitadelle](https://kartinkin.net/pics/uploads/posts/2022-08/1659630023_59-kartinkin-net-p-ostrov-kii-v-belom-more-priroda-krasivo-fo-63.jpg)
 
 Linksbündig | Zentriert ausgerichtet | Rechtsbündig
 :-- | :-: | --:
@@ -50,7 +50,7 @@ Dillinger verwendet eine Reihe von Open-Source-Projekten, um ordnungsgemäß zu 
 - [node.js] – Evented I/O für das Backend
 - [Express] – schnelles node.js Netzwerk-App-Framework [@tjholowaychuk]
 - [Gulp] – das Streaming-Build-System
--  [Breakdance1](http://bugred.ru/) - HTML-zu-Markdown-Konverter
+- [Breakdance1](http://bugred.ru/) - HTML-zu-Markdown-Konverter
 - [jQuery] - haha
 
 Und natürlich ist Dillinger selbst Open Source mit einem [öffentlichen Repository][dill] auf GitHub.
