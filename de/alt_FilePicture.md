@@ -50,7 +50,7 @@ Dillinger verwendet eine Reihe von Open-Source-Projekten, um ordnungsgemäß zu 
 - [node.js] – Evented I/O für das Backend
 - [Express] – schnelles node.js Netzwerk-App-Framework [@tjholowaychuk]
 - [Gulp] – das Streaming-Build-System
-- [Breakdance](https://breakdance.github.io/breakdance/) - HTML-zu-Markdown-Konverter
+-  [Breakdance1](http://bugred.ru/) - HTML-zu-Markdown-Konverter
 - [jQuery] - haha
 
 Und natürlich ist Dillinger selbst Open Source mit einem [öffentlichen Repository][dill] auf GitHub.
