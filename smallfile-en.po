@@ -6,6 +6,10 @@ msgstr ""
 msgid "A screenshot showing amp-sidebar."
 msgstr ""
 
+#: /views/partials/footer.j2:31
+msgid "AMP 2020"
+msgstr ""
+
 #: /views/partials/format-visuals/websites.j2:7
 msgid "A website screenshot."
 msgstr ""
